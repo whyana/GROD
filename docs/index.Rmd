@@ -173,6 +173,9 @@ knitr::include_graphics("www/images/finish3.png")
 
 7. Hit ‘save’ at the top of the page to save your work. You’re done! 
 
+### Documenting poor quality images and unclear obstruction classifications
+If you come across grid cells with poor data quality (cloudy or low-resolution images) or obstructions that are very hard to classify, please make note of these instances in this [**notes sheet**](https://docs.google.com/spreadsheets/d/1VLT5s0oSkc30aS7L62CVzE7iOdsfFPGac6wycy9AOoQ/edit#gid=543664981). There is one tab for notes regarding challenging obstruction classifications and one tab for IDing grid cells with low quality. 
+
 # **Barrier types**
 
 Here is a decision tree to help you differentiate between different types of river obstructions. Detailed descriptions of each obstruction type are listed in the next section.
