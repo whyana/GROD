@@ -323,7 +323,7 @@ The latest version of the Google Earth Engine script will be posted on the proje
 </center>
 3. After upgrading your script, you should be able to continue your work and your previously collected data should be there on the map. If not, please contact us immediately.
 
-### Useful keyboard shortcuts
+## Useful keyboard shortcuts
 
 ```{r, echo=FALSE, out.width = '40%'}
 knitr::include_graphics("www/images/keyboard1.png")
